@@ -1,10 +1,10 @@
-# Research Portfolio — Arthur Filippi
+# Research Portfolio : Arthur Filippi
 
 Étudiant à l'**École Polytechnique** (spécialisation IA, mineures biologie / biologie computationnelle).
 
 ## À propos
 
-Encore tôt dans mon parcours, je n'ai pas encore mené beaucoup de recherche académique formelle. Je rassemble ici quelques travaux représentatifs : une expérience de recherche en mathématiques appliquées avec un partenaire industriel (le *Projet Scientifique Collectif*), et des travaux plus variés — jusqu'à la littérature. Deux fils les relient : **appliquer des outils quantitatifs (MAP / ML) à des problèmes concrets** (finance, et surtout deepfakes) et un **profil assez large**, à l'aise du quantitatif aux sciences humaines.
+Encore tôt dans mon parcours, je n'ai pas encore mené beaucoup de recherche académique formelle. Je rassemble ici quelques travaux représentatifs : une expérience de recherche en mathématiques appliquées avec un partenaire industriel (le *Projet Scientifique Collectif*), et des travaux plus variés, jusqu'à la littérature. Deux fils les relient : **appliquer des outils quantitatifs (MAP / ML) à des problèmes concrets** (finance, et surtout deepfakes) et un **profil assez large**, à l'aise du quantitatif aux sciences humaines.
 
 ## Travaux
 
@@ -18,5 +18,5 @@ Encore tôt dans mon parcours, je n'ai pas encore mené beaucoup de recherche ac
 ## Notes
 
 - Chaque dossier contient le document final (PDF ou notebook) et un court README. Les sources LaTeX sont conservées séparément.
-- Le projet 1 est **anonymisé et réduit** (clauses de confidentialité avec le partenaire) — détails dans son README.
+- Le projet 1 est **anonymisé et réduit** (clauses de confidentialité avec le partenaire) : détails dans son README.
 - Certains travaux sont collectifs ; les co-auteurs sont crédités.
