@@ -11,7 +11,7 @@ Mesurer l'empreinte carbone d'un portefeuille de financement automobile suppose 
 - intervalles de prédiction conformes (MAPIE) ;
 - analyse de *dataset shift* inter-marchés (classifieur de domaine, PCA, AUC).
 
-Détails : [`RAPPORT_CMAP_ML_CARBONE.pdf`](RAPPORT_CMAP_ML_CARBONE.pdf).
+Détails : [`RAPPORT_PROJET_ML.pdf`](RAPPORT_PROJET_ML.pdf).
 
 ## Confidentialité
 
