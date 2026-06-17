@@ -1,0 +1,14 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+
+# Artefacts de build / intermédiaires LaTeX
+04_narratology_butor_robbe-grillet/main.tex
+04_narratology_butor_robbe-grillet/main_raw.tex
+04_narratology_butor_robbe-grillet/main.pdf
+*.bak.tex
