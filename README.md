@@ -4,7 +4,7 @@
 
 ## À propos
 
-Encore tôt dans mon parcours, je n'ai pas encore mené beaucoup de recherche académique formelle. Je rassemble ici quelques travaux représentatifs : une expérience de recherche en mathématiques appliquées avec un partenaire industriel (le *Projet Scientifique Collectif*), et des travaux plus variés, des mathématiques fondamentales (théorie des nœuds) jusqu'à la littérature. Deux fils les relient : **appliquer des outils quantitatifs (MAP / ML) à des problèmes concrets** (finance, et surtout deepfakes) et un **profil assez large**, à l'aise du quantitatif aux sciences humaines.
+Encore tôt dans mon parcours, je n'ai pas encore mené beaucoup de recherche académique formelle. Je rassemble ici quelques travaux représentatifs : une expérience de recherche en mathématiques appliquées avec un partenaire industriel (le *Projet Scientifique Collectif*), et des travaux plus variés, des mathématiques fondamentales (théorie des nœuds) jusqu'à la littérature.
 
 ## Travaux
 
